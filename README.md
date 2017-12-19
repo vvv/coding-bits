@@ -1,2 +1,3 @@
 # coding-bits
-Programming classes assignments
+
+This repository contains programming assignments, which I am giving to my students.
